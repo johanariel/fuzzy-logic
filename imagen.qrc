@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>aula2.jpg</file>
+    <file>aire.png</file>
+    <file>temp.jpeg</file>
+    <file>calefactor.jpg</file>
+    <file>aula.jpg</file>
+  </qresource>
+</RCC>
