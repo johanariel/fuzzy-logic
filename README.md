@@ -30,7 +30,7 @@ Este archivo contiene una interfaz gráfica implementada con PyQt5 para la simul
 
 ## Uso
 
-Para utilizar las funciones de lógica difusa, simplemente importe el módulo `fuzzy.py` en su código y utilice las funciones según sea necesario. Para ejecutar la interfaz gráfica, ejecute el archivo `gui.py`.
+Para utilizar las funciones de lógica difusa, simplemente importe el módulo `fuzzy.py` en su código y utilice las funciones según sea necesario. Para ejecutar la interfaz gráfica, ejecute el archivo `main.py`.
 
 ```python
 # Ejemplo de uso de funciones de lógica difusa
@@ -48,3 +48,5 @@ print(membership)
 
 # Ejecutar
 python main.py
+```
+![Ejecución](fuzzy-logic.jpg)
